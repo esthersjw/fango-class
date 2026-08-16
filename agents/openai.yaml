@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fango Class"
+  short_description: "按内容优先流程剪辑中文口播教程并人工审核专业疑点"
+  default_prompt: "Use $fango-class to review, clean, and package a Chinese tutorial video in ChatCut."
+
+policy:
+  allow_implicit_invocation: true
