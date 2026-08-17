@@ -21,6 +21,8 @@ description: 用于 ChatCut 中的中文口播教程、访谈和工具讲解视�
 
 工具与文件名统一使用以下写法：`Cola`、`Pinterest`、`ListenHub`、`SKILL.md`。字幕和文档中保留英文大小写；若 ASR 出现“Cora”“科拉”“listen hub”等变体，按上下文统一为确认写法。
 
+用户个人常用词统一读取 [references/proper-nouns.md](references/proper-nouns.md)。当前确认的重点写法包括“不二”、`Focusee`、`Vibe Coding` 和 `build in public`；只在上下文明确时修正 ASR 变体，并在最终字幕阶段检查大小写、空格和完整短语断句。
+
 ## 硬性规则
 
 - 先读取最新 ChatCut 项目、时间线、素材、字幕和已有视觉层；不依赖旧的 item id、旧时长或记忆中的位置。
